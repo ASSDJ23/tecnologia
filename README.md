@@ -45,7 +45,7 @@
         <h1>La tecnología: un arma de doble filo</h1>
     </header>
     <main>
-        <img src="tecno.jpg" alt="Tecnología de doble filo">
+        <img src="https://forbes.es/wp-content/uploads/2022/11/tecnologia-cambio-futuro-humano.jpg" alt="Tecnología de doble filo">
         <div class="article">
             <h2>Introducción</h2>
             <p>La tecnología ha revolucionado nuestra forma de vivir, trabajar e interactuar con el mundo. Desde la invención de la rueda hasta la era digital actual, los avances tecnológicos han impulsado el progreso humano en innumerables formas.</p>
@@ -59,7 +59,7 @@
                 <li>La tecnología de la comunicación ha hecho que sea más fácil que nunca mantenerse en contacto con amigos y familiares, incluso si viven lejos.</li>
                 <li>La tecnología del entretenimiento ha creado nuevas formas de disfrutar nuestro tiempo libre, como ver películas, jugar videojuegos y escuchar música.</li>
             </ul>
-            <video src="tecnologia.mp4" controls width="640" height="360" style="display: block; margin: 0 auto;"> </video>
+            <video src="https://youtu.be/woDgxgslDQk?si=SIofFQfAFrVpW9iC" controls width="640" height="360" style="display: block; margin: 0 auto;"> </video>
             <h2>Los riesgos de la tecnología</h2>
             <p>A pesar de sus muchos beneficios, la tecnología también tiene algunos riesgos potenciales. Algunos de los riesgos más importantes incluyen:</p>
             <ul>
